@@ -1,0 +1,367 @@
+City,County,Latitude,Longitude
+San Diego,San Diego,32.79,-117.132
+Los Angeles,Los Angeles,34.027,-118.277
+Fresno,Fresno,36.766,-119.788
+Bakersfield,Kern,35.343,-119.017
+San Jose,Santa Clara,37.311,-121.863
+San Francisco,San Francisco,37.757,-122.436
+Long Beach,Los Angeles,33.81,-118.162
+Irvine,Orange,33.688,-117.782
+Santa Ana,Orange,33.741,-117.874
+Sacramento,Sacramento,38.568,-121.44
+San Bernardino,San Bernardino,34.131,-117.294
+Stockton,San Joaquin,37.979,-121.294
+Modesto,Stanislaus,37.653,-120.994
+Garden Grove,Orange,33.777,-117.955
+Oakland,Alameda,37.788,-122.218
+Chula Vista,San Diego,32.627,-117.027
+Visalia,Tulare,36.334,-119.306
+Fontana,San Bernardino,34.096,-117.455
+Hayward,Alameda,37.649,-122.083
+Concord,Contra Costa,37.97,-122.01
+Yuba City,Sutter,39.132,-121.638
+El Segundo,Los Angeles,33.921,-118.401
+Fremont,Alameda,37.54,-121.98
+Palmdale,Los Angeles,34.578,-118.085
+Pasadena,Los Angeles,34.156,-118.113
+Porterville,Tulare,36.071,-119.045
+Santa Rosa,Sonoma,38.456,-122.728
+Temecula,Riverside,33.501,-117.124
+Tulare,Tulare,36.209,-119.356
+Ventura,Ventura,34.276,-119.237
+Huntington Beach,Orange,33.698,-117.999
+Livermore,Alameda,37.684,-121.763
+Mission Viejo,Orange,33.603,-117.666
+Oceanside,San Diego,33.22,-117.32
+Pomona,Los Angeles,34.059,-117.756
+Redlands,San Bernardino,34.056,-117.179
+Rialto,San Bernardino,34.116,-117.377
+Antioch,Contra Costa,37.989,-121.801
+Baldwin Park,Los Angeles,34.085,-117.97
+Carlsbad,San Diego,33.129,-117.285
+Clovis,Fresno,36.826,-119.684
+El Cajon,San Diego,32.797,-116.934
+Moreno Valley,Riverside,33.921,-117.228
+Orange,Orange,33.796,-117.832
+Palo Alto,Santa Clara,37.427,-122.134
+Riverside,Riverside,33.937,-117.409
+San Mateo,San Mateo,37.549,-122.32
+San Ramon,Contra Costa,37.76,-121.933
+Tracy,San Joaquin,37.722,-121.416
+Anaheim,Orange,33.833,-117.912
+Beverly Hills,Los Angeles,34.069,-118.402
+Costa Mesa,Orange,33.665,-117.909
+Cupertino,Santa Clara,37.321,-122.036
+Danville,Contra Costa,37.814,-121.961
+Davis,Yolo,38.554,-121.745
+Fullerton,Orange,33.879,-117.926
+Glendale,Los Angeles,34.155,-118.253
+Mountain View,Santa Clara,37.389,-122.082
+Norwalk,Los Angeles,33.907,-118.083
+Pacifica,San Mateo,37.618,-122.485
+Placentia,Orange,33.886,-117.86
+Pleasanton,Alameda,37.672,-121.884
+Rocklin,Placer,38.807,-121.263
+Santa Clara,Santa Clara,37.356,-121.971
+Santa Monica,Los Angeles,34.019,-118.482
+Simi Valley,Ventura,34.273,-118.758
+Sunnyvale,Santa Clara,37.365,-122.029
+Vacaville,Solano,38.353,-121.979
+Walnut Creek,Contra Costa,37.903,-122.043
+Whittier,Los Angeles,33.958,-118.033
+Alameda,Alameda,37.768,-122.264
+Alhambra,Los Angeles,34.089,-118.134
+Arcadia,Los Angeles,34.13,-118.034
+Berkeley,Alameda,37.869,-122.273
+Calabasas,Los Angeles,34.144,-118.66
+Folsom,Sacramento,38.663,-121.139
+Huntington Park,Los Angeles,33.98,-118.222
+Indio,Riverside,33.724,-116.238
+La Jolla,San Diego,32.843,-117.258
+Lakewood,Los Angeles,33.851,-118.12
+Lancaster,Los Angeles,34.684,-118.128
+Madera,Madera,36.972,-120.072
+Milpitas,Santa Clara,37.436,-121.893
+Northridge,Los Angeles,34.241,-118.529
+Ontario,San Bernardino,34.055,-117.63
+Oxnard,Ventura,34.196,-119.172
+Pleasant Hill,Contra Costa,37.948,-122.07
+Poway,San Diego,32.974,-117.039
+Rancho Santa Margarita,Orange,33.632,-117.604
+Redding,Shasta,40.577,-122.371
+Ripon,San Joaquin,37.745,-121.128
+Salinas,Monterey,36.692,-121.643
+San Clemente,Orange,33.44,-117.606
+San Juan Capistrano,Orange,33.493,-117.668
+San Leandro,Alameda,37.711,-122.151
+San Lorenzo,Alameda,37.68,-122.134
+San Rafael,Marin,37.995,-122.534
+Santa Barbara,Santa Barbara,34.432,-119.732
+South Gate,Los Angeles,33.949,-118.206
+Thousand Oaks,Ventura,34.198,-118.859
+Turlock,Stanislaus,37.505,-120.866
+Tustin,Orange,33.736,-117.81
+Woodland Hills,Los Angeles,34.171,-118.602
+Yorba Linda,Orange,33.889,-117.795
+Aliso Viejo,Orange,33.57,-117.727
+Carson,Los Angeles,33.84,-118.263
+Castro Valley,Alameda,37.706,-122.07
+Cerritos,Los Angeles,33.868,-118.065
+Chico,Butte,39.745,-121.837
+Claremont,Los Angeles,34.102,-117.724
+Diamond Bar,Los Angeles,33.999,-117.819
+El Monte,Los Angeles,34.072,-118.027
+Escalon,San Joaquin,37.798,-121.005
+Fairfield,Solano,38.257,-122.044
+Fountain Valley,Orange,33.714,-117.953
+Glendora,Los Angeles,34.129,-117.855
+Granada Hills,Los Angeles,34.275,-118.497
+Hanford,Kings,36.333,-119.644
+La Mirada,Los Angeles,33.906,-118.007
+La Puente,Los Angeles,34.033,-117.946
+Lafayette,Contra Costa,37.889,-122.109
+Los Alamitos,Orange,33.799,-118.075
+Los Altos,Santa Clara,37.375,-122.101
+Moorpark,Ventura,34.281,-118.876
+Newbury Park,Ventura,34.176,-118.951
+Newport Beach,Orange,33.625,-117.888
+North Hollywood,Los Angeles,34.183,-118.389
+Ojai,Ventura,34.445,-119.259
+Palm Desert,Riverside,33.737,-116.36
+Patterson,Stanislaus,37.475,-121.138
+Rancho Cordova,Sacramento,38.593,-121.279
+Rohnert Park,Sonoma,38.341,-122.693
+San Fernando,Los Angeles,34.285,-118.431
+San Gabriel,Los Angeles,34.097,-118.097
+Saratoga,Santa Clara,37.273,-122.02
+Sherman Oaks,Los Angeles,34.158,-118.432
+Spring Valley,San Diego,32.729,-116.984
+Sun Valley,Los Angeles,34.226,-118.383
+Upland,San Bernardino,34.108,-117.657
+Victorville,San Bernardino,34.51,-117.334
+Westlake Village,Ventura,34.154,-118.828
+Westminster,Orange,33.751,-117.989
+Albany,Alameda,37.893,-122.294
+Apple Valley,San Bernardino,34.497,-117.202
+Arcata,Humboldt,40.878,-124.087
+Atherton,San Mateo,37.457,-122.193
+Atwater,Merced,37.352,-120.6
+Azusa,Los Angeles,34.124,-117.902
+Banning,Riverside,33.927,-116.882
+Belmont,San Mateo,37.516,-122.298
+Brea,Orange,33.924,-117.885
+Buena Park,Orange,33.856,-118.004
+Burbank,Los Angeles,34.182,-118.329
+Canoga Park,Los Angeles,34.206,-118.594
+Carmel,Monterey,36.538,-121.87
+Chino Hills,San Bernardino,33.981,-117.725
+Compton,Los Angeles,33.899,-118.225
+Culver City,Los Angeles,34.004,-118.402
+Cypress,Orange,33.821,-118.045
+Daly City,San Mateo,37.686,-122.468
+Dublin,Alameda,37.714,-121.9
+El Centro,Imperial,32.783,-115.56
+Eureka,Humboldt,40.771,-124.151
+Fair Oaks,Sacramento,38.654,-121.272
+Fillmore,Ventura,34.403,-118.916
+Goleta,Santa Barbara,34.44,-119.859
+Grass Valley,Nevada,39.174,-121.061
+Hacienda Heights,Los Angeles,34.001,-117.969
+Helendale,San Bernardino,34.74,-117.346
+Hemet,Riverside,33.741,-116.971
+Hercules,Contra Costa,38.001,-122.253
+Hesperia,San Bernardino,34.423,-117.32
+Highland,San Bernardino,34.126,-117.207
+Idyllwild,Riverside,33.738,-116.721
+La Canada,Los Angeles,34.207,-118.198
+La Habra,Orange,33.932,-117.948
+La Mesa,San Diego,32.767,-117.016
+La Quinta,Riverside,33.708,-116.297
+Laguna Niguel,Orange,33.532,-117.697
+Lake Balboa,Los Angeles,34.194,-118.501
+Lake Forest,Orange,33.633,-117.692
+Lakeside,San Diego,32.863,-116.922
+Lodi,San Joaquin,38.119,-121.283
+Manhattan Beach,Los Angeles,33.885,-118.396
+Marina,Monterey,36.68,-121.79
+Martinez,Contra Costa,37.999,-122.117
+Mill Valley,Marin,37.899,-122.531
+Monrovia,Los Angeles,34.141,-117.999
+Montebello,Los Angeles,34.015,-118.117
+Monterey,Monterey,36.6,-121.883
+Moraga,Contra Costa,37.844,-122.13
+Murrieta,Riverside,33.574,-117.184
+Napa,Napa,38.307,-122.293
+North Hills,Los Angeles,34.238,-118.473
+Novato,Marin,38.093,-122.573
+Oakhurst,Madera,37.334,-119.636
+Oakley,Contra Costa,37.988,-121.705
+Orinda,Contra Costa,37.87,-122.169
+Pacific Grove,Monterey,36.613,-121.925
+Palos Verdes Estates,Los Angeles,33.784,-118.402
+Paramount,Los Angeles,33.896,-118.162
+Petaluma,Sonoma,38.248,-122.656
+Pico Rivera,Los Angeles,33.986,-118.09
+Piedmont,Alameda,37.823,-122.235
+Rancho Palos Verdes,Los Angeles,33.765,-118.361
+Redwood City,San Mateo,37.487,-122.237
+Richmond,Contra Costa,37.945,-122.339
+Ridgecrest,Kern,35.633,-117.671
+San Carlos,San Mateo,37.501,-122.27
+San Marino,Los Angeles,34.122,-118.105
+Santa Cruz,Santa Cruz,36.986,-122.016
+Santee,San Diego,32.852,-116.99
+Seaside,Monterey,36.618,-121.831
+Shasta Lake,Shasta,40.685,-122.381
+South Lake Tahoe,El Dorado,38.922,-119.983
+South Pasadena,Los Angeles,34.109,-118.156
+Strathmore,Tulare,36.146,-119.067
+Studio City,Los Angeles,34.141,-118.392
+Sylmar,Los Angeles,34.309,-118.448
+Tarzana,Los Angeles,34.167,-118.541
+Temple City,Los Angeles,34.105,-118.06
+Tollhouse,Fresno,37.037,-119.455
+Ukiah,Mendocino,39.158,-123.213
+Villa Park,Orange,33.817,-117.818
+Walnut,Los Angeles,34.012,-117.861
+West Covina,Los Angeles,34.058,-117.918
+Windsor,Sonoma,38.548,-122.817
+Woodland,Yolo,38.671,-121.774
+Acton,Los Angeles,34.489,-118.197
+Adelanto,San Bernardino,34.545,-117.438
+Agoura,Los Angeles,34.157,-118.759
+Agoura Hills,Los Angeles,34.165,-118.788
+Alamo,Contra Costa,37.855,-122.026
+American Canyon,Napa,38.171,-122.257
+Antelope,Sacramento,38.715,-121.367
+Arbuckle,Colusa,39.011,-122.057
+Arleta,Los Angeles,34.242,-118.433
+Atascadero,San Luis Obispo,35.48,-120.664
+Auburn,Placer,38.91,-121.079
+Bay Point,Contra Costa,38.031,-121.962
+Bayside,Humboldt,40.849,-124.069
+Beaumont,Riverside,33.947,-116.976
+Bell Gardens,Los Angeles,33.968,-118.153
+Bellflower,Los Angeles,33.889,-118.126
+Brawley,Imperial,32.986,-115.514
+Brentwood,Contra Costa,37.935,-121.708
+Burlingame,San Mateo,37.584,-122.369
+Camarillo,Ventura,34.224,-119.03
+Campbell,Santa Clara,37.28,-121.962
+Canyon Country,Los Angeles,34.429,-118.459
+Carmichael,Sacramento,38.631,-121.331
+Carpinteria,Santa Barbara,34.403,-119.519
+Castaic,Los Angeles,34.474,-118.627
+Cathedral City,Riverside,33.819,-116.464
+Chatsworth,Los Angeles,34.252,-118.584
+Chino,San Bernardino,34.014,-117.684
+City Of Industry,Los Angeles,34.043,-117.961
+Clayton,Contra Costa,37.937,-121.932
+Corona,Riverside,33.858,-117.559
+Coronado,San Diego,32.684,-117.173
+Covina,Los Angeles,34.092,-117.89
+Dana Point,Orange,33.474,-117.702
+Delano,Kern,35.778,-119.24
+Delhi,Merced,37.427,-120.784
+Dinuba,Tulare,36.541,-119.389
+Duarte,Los Angeles,34.137,-117.971
+East Palo Alto,San Mateo,37.466,-122.134
+El Cerrito,Contra Costa,37.916,-122.303
+El Dorado,El Dorado,38.681,-120.837
+El Dorado Hills,El Dorado,38.665,-121.069
+Elk Grove,Sacramento,38.414,-121.403
+Fairfax,Marin,37.996,-122.597
+Firebaugh,Fresno,36.852,-120.447
+Foster City,San Mateo,37.558,-122.263
+Harbor City,Los Angeles,33.801,-118.303
+Hawthorne,Los Angeles,33.914,-118.353
+Healdsburg,Sonoma,38.618,-122.857
+Imperial Beach,San Diego,32.58,-117.118
+Inglewood,Los Angeles,33.957,-118.348
+Jurupa Valley,Riverside,33.998,-117.465
+Kerman,Fresno,36.732,-120.064
+La Crescenta,Los Angeles,34.23,-118.244
+Ladera Ranch,Orange,33.553,-117.638
+Laguna Beach,Orange,33.547,-117.777
+Laguna Hills,Orange,33.593,-117.694
+Lake Arrowhead,San Bernardino,34.281,-117.181
+Lake Elsinore,Riverside,33.677,-117.335
+Las Flores,Orange,33.586,-117.621
+Lathrop,San Joaquin,37.811,-121.316
+Lawndale,Los Angeles,33.893,-118.354
+Lemoore,Kings,36.3,-119.795
+Linden,San Joaquin,38.021,-121.089
+Littlerock,Los Angeles,34.545,-117.958
+Loma Linda,San Bernardino,34.042,-117.231
+Lompoc,Santa Barbara,34.658,-120.459
+Los Gatos,Santa Clara,37.208,-121.97
+Lost Hills,Kern,35.614,-119.695
+Lucerne Valley,San Bernardino,34.429,-116.927
+Malibu,Los Angeles,34.039,-118.798
+Maricopa,Kern,35.055,-119.403
+Marysville,Yuba,39.167,-121.55
+Maywood,Los Angeles,33.988,-118.187
+McKinleyville,Humboldt,40.957,-124.093
+Menlo Park,San Mateo,37.454,-122.187
+Meridian,Sutter,39.103,-121.873
+Millbrae,San Mateo,37.598,-122.401
+Mission Hills,Los Angeles,34.27,-118.457
+Montclair,San Bernardino,34.071,-117.698
+Mountain House,San Joaquin,37.773,-121.545
+National City,San Diego,32.674,-117.09
+Newhall,Los Angeles,34.383,-118.528
+Newport Coast,Orange,33.6,-117.83
+Oak Hills,San Bernardino,34.389,-117.386
+Oak Park,Ventura,34.177,-118.769
+Oakdale,Stanislaus,37.763,-120.854
+Pacific Palisades,Los Angeles,34.045,-118.536
+Pacoima,Los Angeles,34.265,-118.413
+Palm Springs,Riverside,33.828,-116.524
+Palo Cedro,Shasta,40.556,-122.238
+Paso Robles,San Luis Obispo,35.633,-120.69
+Pebble Beach,Monterey,36.57,-121.95
+Placerville,El Dorado,38.725,-120.827
+Plumas Lake,Yuba,39.002,-121.55
+Portola Valley,San Mateo,37.375,-122.216
+Quartz Hill,Los Angeles,34.654,-118.233
+Quincy,Plumas,39.94,-120.93
+Rancho Cucamonga,San Bernardino,34.112,-117.585
+Rancho Mirage,Riverside,33.781,-116.427
+Redondo Beach,Los Angeles,33.857,-118.375
+Reseda,Los Angeles,34.203,-118.54
+Rolling Hills Estates,Los Angeles,33.79,-118.37
+Rosamond,Kern,34.863,-118.19
+Rosemead,Los Angeles,34.07,-118.085
+Ross,Marin,37.962,-122.556
+Rowland Heights,Los Angeles,33.982,-117.893
+Salida,Stanislaus,37.708,-121.087
+San Andreas,Calaveras,38.194,-120.664
+San Anselmo,Marin,37.988,-122.572
+San Bruno,San Mateo,37.62,-122.424
+San Dimas,Los Angeles,34.112,-117.811
+San Jacinto,Riverside,33.792,-116.964
+San Pablo,Contra Costa,37.974,-122.338
+Santa Paula,Ventura,34.354,-119.073
+Sebastopol,Sonoma,38.39,-122.823
+Shafter,Kern,35.506,-119.286
+Shingle Springs,El Dorado,38.625,-120.948
+Signal Hill,Los Angeles,33.795,-118.17
+South El Monte,Los Angeles,34.04,-118.045
+South San Francisco,San Mateo,37.656,-122.433
+Stevenson Ranch,Los Angeles,34.392,-118.59
+Sunland,Los Angeles,34.262,-118.308
+Taft,Kern,35.144,-119.46
+Templeton,San Luis Obispo,35.546,-120.716
+Torrance,Los Angeles,33.837,-118.338
+Tujunga,Los Angeles,34.258,-118.291
+Twentynine Palms,San Bernardino,34.152,-116.049
+Union City,Alameda,37.594,-122.046
+Valencia,Los Angeles,34.425,-118.558
+Van Nuys,Los Angeles,34.191,-118.452
+Vista,San Diego,33.202,-117.24
+Weaverville,Trinity,40.736,-122.944
+West Sacramento,Yolo,38.574,-121.537
+Wilmington,Los Angeles,33.789,-118.266
+Woodside,San Mateo,37.43,-122.271
+Yermo,San Bernardino,34.887,-116.868
+Yucca Valley,San Bernardino,34.131,-116.41
